@@ -1,0 +1,547 @@
+ 
+
+Home page  
+
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<link href="styles/main.css" rel="stylesheet" type="text/css"> 
+
+ 
+
+<title>hot beans home page</title> 
+
+</head> 
+
+<body> 
+
+<header> 
+
+<div class="logo"> 
+
+Your Logo 
+
+</div> 
+
+<nav> 
+
+<ul> 
+
+<li><a href="index.html">HOME</li> 
+
+<li><a href="forms.html">FORMS</a></li> 
+
+<li><a href="aboutus.html">ABOUT US</a></li> 
+
+<li><a href="contactus.html">CONTACT US</a></li> 
+
+<li><a href="staff.html">STAFF</a></li> 
+
+</ul> 
+
+</nav> 
+
+<div class="social-links"> 
+
+<a href="#"><i class="fab fa-facebook"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a> 
+
+</div> 
+
+</header> 
+
+<section> 
+
+<img alt="alternatetext" src="images/hot_beans.png"> 
+
+<h1>hot beans</h1> 
+
+<p>The bombe (UK: /bɒmb/) was an electro-mechanical device used by British cryptologists to help decipher German Enigma-machine-encrypted secret messages during World War II.[1] The US Navy[2] and US Army[3] later produced their own machines to the same functional specification, albeit engineered differently both from each other and from Polish and British bombes. .</p> 
+
+</section> 
+
+</body> 
+
+</html> 
+
+ 
+
+Forms page  
+
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<link href="styles/main.css" rel="stylesheet" type="text/css"> 
+
+ 
+
+<title>hot beans form  page</title> 
+
+<script type="text/javascript" src="scripts/popupbox.txt"></script> 
+
+</head> 
+
+<body> 
+
+<header> 
+
+<div class="logo"> 
+
+Your Logo 
+
+</div> 
+
+<nav> 
+
+<ul> 
+
+<li><a href="index.html">HOME</li> 
+
+<li><a href="forms.html">FORMS</a></li> 
+
+<li><a href="aboutus.html">ABOUT US</a></li> 
+
+<li><a href="contactus.html">CONTACT US</a></li> 
+
+<li><a href="staff.html">STAFF</a></li> 
+
+</ul> 
+
+</nav> 
+
+<div class="social-links"> 
+
+<a href="#"><i class="fab fa-facebook"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a> 
+
+</div> 
+
+</header> 
+
+<section> 
+
+<img alt="alternatetext" src="images/hot_beans.png"> 
+
+ 
+
+</section> 
+
+<form> 
+
+   
+
+   
+
+  <form> 
+
+<label for="eadress ">email adress:</label><br> 
+
+  <input type="text" id="eadress" name="email adress"><br> 
+
+  <label for="pnumber">phone number:</label><br> 
+
+  <input type="text" id="pnumber" name="pnumber"><br> 
+
+    <label for="adress ">adress:</label><br> 
+
+  <input type="text" id="address" name=" address"><br> 
+
+<label for="fname">First name:</label><br> 
+
+  <input type="text" id="fname" name="fname"><br> 
+
+  <label for="lname">Last name:</label><br> 
+
+  <input type="text" id="lname" name="lname"><br> 
+
+  <p><input type="button" onclick="popup()" value="submit!"></p> 
+
+</form> 
+
+   
+
+  
+
+  
+
+ 
+
+</body> 
+
+</html> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+About us page  
+
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<link href="styles/main.css" rel="stylesheet" type="text/css"> 
+
+ 
+
+<title>hot beans form  page</title> 
+
+</head> 
+
+<body> 
+
+<header> 
+
+<div class="logo"> 
+
+Your Logo 
+
+</div> 
+
+<nav> 
+
+<ul> 
+
+<li><a href="index.html">HOME</li> 
+
+<li><a href="forms.html">FORMS</a></li> 
+
+<li><a href="aboutus.html">ABOUT US</a></li> 
+
+<li><a href="contactus.html">CONTACT US</a></li> 
+
+<li><a href="staff.html">STAFF</a></li> 
+
+</ul> 
+
+</nav> 
+
+<div class="social-links"> 
+
+<a href="#"><i class="fab fa-facebook"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a> 
+
+</div> 
+
+</header> 
+
+section> 
+
+<img alt="alternatetext" src="images/hot_beans.png"> 
+
+<p>The British bombe was developed from a device known as the "bomba" (Polish: bomba kryptologiczna), which had been designed in Poland at the Biuro Szyfrów (Cipher Bureau) by cryptologist Marian Rejewski, who had been breaking German Enigma messages for the previous seven years, using it and earlier machines. The initial design of the British bombe was produced in 1939 at the UK Government Code and Cypher School (GC&CS) at Bletchley Park by Alan Turing,[4] with an important refinement devised in 1940 by Gordon Welchman.[5] The engineering design and construction was the work of Harold Keen of the British Tabulating Machine Company. The first bombe, code-named Victory, was installed in March 1940[6] while the second version, Agnus Dei or Agnes, incorporating Welchman's new design, was working by August 1940.[7] .</p> 
+
+</section> 
+
+</body> 
+
+</html> 
+
+Contact us page  
+
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<link href="styles/main.css" rel="stylesheet" type="text/css"> 
+
+ 
+
+<title>hot beans form  page</title> 
+
+</head> 
+
+<body> 
+
+<header> 
+
+<div class="logo"> 
+
+Your Logo 
+
+</div> 
+
+<nav> 
+
+<ul> 
+
+<li><a href="index.html">HOME</li> 
+
+<li><a href="forms.html">FORMS</a></li> 
+
+<li><a href="aboutus.html">ABOUT US</a></li> 
+
+<li><a href="contactus.html">CONTACT US</a></li> 
+
+<li><a href="staff.html">STAFF</a></li> 
+
+</ul> 
+
+</nav> 
+
+<div class="social-links"> 
+
+<a href="#"><i class="fab fa-facebook"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a> 
+
+</div> 
+
+</header> 
+
+section> 
+
+<img alt="alternatetext" src="images/hot_beans.png"> 
+
+<p>077871423465<p> 
+
+</section> 
+
+</body> 
+
+</html> 
+
+ 
+
+ 
+
+Staff page  
+
+ <!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<link href="styles/main.css" rel="stylesheet" type="text/css"> 
+
+ 
+
+<title>hot beans form  page</title> 
+
+</head> 
+
+<body> 
+
+<header> 
+
+<div class="logo"> 
+
+Your Logo 
+
+</div> 
+
+<nav> 
+
+<ul> 
+
+<li><a href="index.html">HOME</li> 
+
+<li><a href="forms.html">FORMS</a></li> 
+
+<li><a href="aboutus.html">ABOUT US</a></li> 
+
+<li><a href="contactus.html">CONTACT US</a></li> 
+
+<li><a href="staff.html">STAFF</a></li> 
+
+</ul> 
+
+</nav> 
+
+<div class="social-links"> 
+
+<a href="#"><i class="fab fa-facebook"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a> 
+
+</div> 
+
+</header> 
+
+section> 
+
+<img alt="alternatetext" src="images/hot_beans.png"> 
+
+ 
+
+</section> 
+
+  
+
+<img alt="alternatetext" src="images/george.jfif"> 
+
+<p>The initial design of the British bombe was produced in 1939 at the UK Government Code and Cypher School (GC&CS) at Bletchley Park by Alan Turing, with an important refinement devised in 1940 by Gordon Welchman<p> 
+
+ 
+
+ 
+
+<img alt="alternatetext" src="images/george.jfif"> 
+
+<p>The initial design of the British bombe was produced in 1939 at the UK Government Code and Cypher School (GC&CS) at Bletchley Park by Alan Turing, with an important refinement devised in 1940 by Gordon Welchman<p> 
+
+ 
+
+<img alt="alternatetext" src="images/george.jfif"> 
+
+<p>The initial design of the British bombe was produced in 1939 at the UK Government Code and Cypher School (GC&CS) at Bletchley Park by Alan Turing, with an important refinement devised in 1940 by Gordon Welchman<p> 
+
+ 
+
+ 
+
+ 
+
+</body> 
+
+</html> 
+
+ 
+
+Code of css 
+
+ /* CSS Reset (optional) */ 
+
+  
+
+* { 
+
+margin: 0; 
+
+padding: 0; 
+
+box-sizing: border-box; 
+
+} 
+
+/* Styles for the header */ 
+
+  
+
+header { 
+
+display: grid; 
+
+grid-template-columns: auto 1fr auto; 
+
+align-items: center; 
+
+padding: 20px; 
+
+background-color: #f1f1f1; 
+
+} 
+
+.logo { 
+
+font-size: 24px; 
+
+font-weight: bold; 
+
+ 
+
+} 
+
+  
+
+.logo img { 
+
+height:50px 
+
+ 
+
+} 
+
+  
+
+h1 { 
+
+ 
+
+} 
+
+  
+
+h2 { 
+
+ 
+
+} 
+
+  
+
+h3 { 
+
+ 
+
+} 
+
+  
+
+p { 
+
+ 
+
+} 
+
+  
+
+nav ul { 
+
+list-style-type: none; 
+
+display: flex; 
+
+justify-content: center; 
+
+align-items: center; 
+
+} 
+
+nav ul li { 
+
+margin-right: 20px; 
+
+} 
+
+nav ul li a { 
+
+text-decoration: none; 
+
+color: #333; 
+
+} 
+
+.social-links a { 
+
+margin-left: 10px; 
+
+color: #333; 
+
+} 
+
+.social-links i { 
+
+font-size: 20px; 
+
+} 
+
+/* Add your own styles for the rest of the page */ 
+
+ 
+
+Java script 
+
+function popup() { 
+
+  alert("Hello world is a good way to start all programming"); 
+
+} 
